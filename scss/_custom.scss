@@ -1,2 +1,9 @@
+$purple-dark: #6f42c1;
+$purple-light: #b18fef;
+$pink: #d63384;
+
+$primary: $purple-dark;
+$secondary: $pink;
+
 //Import Bootstrap 5
-@import '../node_modules/bootstrap/scss/bootstrap.scss';
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
